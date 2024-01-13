@@ -938,3 +938,38 @@ django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 36: 'block'
 "GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
 "GET / HTTP/1.1" 200 2111
 "GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2111
+"GET /static/css/style.css HTTP/1.1" 304 0
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET / HTTP/1.1" 200 2111
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET / HTTP/1.1" 200 2111
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /about/ HTTP/1.1" 200 2111
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+C:\Users\me\Django_homeworks\seminars\first\views.py changed, reloading.
+C:\Users\me\Django_homeworks\seminars\first\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\me\Django_homeworks\seminars\first\urls.py changed, reloading.
+C:\Users\me\Django_homeworks\seminars\first\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2219
+"GET /static/css/style.css HTTP/1.1" 304 0
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /services/ HTTP/1.1" 200 2068
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /services/ HTTP/1.1" 200 2048
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET / HTTP/1.1" 200 2219
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /about/ HTTP/1.1" 200 2219
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /services/ HTTP/1.1" 200 2048
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET / HTTP/1.1" 200 2219
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
+"GET /about/ HTTP/1.1" 200 2219
+"GET /static/js/bootsstrap.js.js HTTP/1.1" 404 1816
